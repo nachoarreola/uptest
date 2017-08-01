@@ -1,0 +1,10 @@
+.vida {
+	background-color: yellow;
+	border: dotted blue 2px;
+	width: 400px;
+	height: 200px;
+	color: green;
+	font-family: "Comic Sans";
+	font-size: 40px;
+	text-align: center;
+}
